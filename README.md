@@ -151,3 +151,41 @@ schoolcore/
 ## License
 
 Internal use only.
+
+## Screenshots
+<img width="1497" height="726" alt="image" src="https://github.com/user-attachments/assets/20de93b2-ea1f-4d56-ba69-f2cc7bba8523" />
+
+
+<img width="1227" height="592" alt="image" src="https://github.com/user-attachments/assets/2f781fcd-b0a0-489b-9f81-ab799e1cc88f" />
+
+
+<img width="1487" height="622" alt="image" src="https://github.com/user-attachments/assets/820d69df-c7b9-44e3-9084-f2b04b2d5a57" />
+
+
+<img width="1497" height="627" alt="image" src="https://github.com/user-attachments/assets/e15cdd8b-f592-4114-8391-44ec180ed2e1" />
+
+
+<img width="1204" height="560" alt="image" src="https://github.com/user-attachments/assets/7b694a34-d953-4929-b271-39e9eaf93bce" />
+
+
+<img width="1258" height="649" alt="image" src="https://github.com/user-attachments/assets/cdfe0ab4-e0da-41d1-83e9-69f2d4fa61b5" />
+
+
+<img width="1245" height="559" alt="image" src="https://github.com/user-attachments/assets/194384a9-6e9d-400b-9692-f068bce2a09e" />
+
+
+<img width="1244" height="717" alt="image" src="https://github.com/user-attachments/assets/db9bae7a-b5b5-47fc-b0c6-2c0078dde814" />
+
+
+<img width="1258" height="641" alt="image" src="https://github.com/user-attachments/assets/112d9f87-ea4e-4532-99e5-b5158ec0a78d" />
+
+
+<img width="1201" height="621" alt="image" src="https://github.com/user-attachments/assets/06e7fdb4-0d01-4e08-afb9-e63ce392c33b" />
+
+
+<img width="438" height="453" alt="image" src="https://github.com/user-attachments/assets/51c6797f-69b3-4bee-982c-a64f054864c8" />
+
+
+<img width="266" height="314" alt="image" src="https://github.com/user-attachments/assets/19c9dc5c-470f-4a16-af18-83a31ef2828b" />
+
+<img width="883" height="60" alt="Screenshot 2026-01-30 at 12 04 40" src="https://github.com/user-attachments/assets/a7d6d05b-bde7-4adf-af66-6f73c74e9413" />
